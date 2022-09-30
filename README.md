@@ -30,23 +30,19 @@ kolom PENDAMPING dan ALAMAT, silakan diedit saja jika tidak sesuai.
 Teman, silakan login akun GMAIL yang terdaftar diakun SDM PKH untuk mengedit, atau minta akses bagi yang belum saya kirimi email, sertakan Nama Pendamping dan Kecamatan Dampingan.
 Berikut link untuk akses file kecamatan:
 
-| KECAMATAN | KECAMATAN |
-| --- | --- |
-| 1 - CIAWIGEBANG | 17 - JAPARA |
-2 - CIBEUREUM | 18 - KADUGEDE |
-3 - CIBINGBIN | 19 - KALIMANGGIS |
-4 - CIDAHU | 20 - KARANG KANCANA |
-5 - CIGANDAMEKAR | 21 - KRAMATMULYA |
-6 - CIGUGUR | 22 - KUNINGAN |
-7 - CILEBAK | 23 - LEBAKWANGI |
-8 - CILIMUS | 24 - LURAGUNG |
-9 - CIMAHI | 25 - MALEBER |
-10 - CINIRU | 26 - MANDIRANCAN |
-11 - CIPICUNG | 27 - NUSAHERANG |
-12 - CIWARU | 28 - PANCALANG |
-13 - DARMA | 29 - PASAWAHAN |
-14 - GARAWANGI | 30 - SELAJAMBE |
-15 - HANTARA | 31 - SINDANGAGUNG |
-16 - JALAKSANA | 32 - SUBANG |
+| KECAMATAN | KECAMATAN | KECAMATAN |
+| --- | --- | --- |
+| 1 - CIAWIGEBANG | 12 - CIWARU | 23 - LEBAKWANGI |
+2 - CIBEUREUM | 13 - DARMA |  24 - LURAGUNG |
+3 - CIBINGBIN | 14 - GARAWANGI | 25 - MALEBER |
+4 - CIDAHU | 15 - HANTARA | 26 - MANDIRANCAN |
+5 - CIGANDAMEKAR | 16 - JALAKSANA | 27 - NUSAHERANG |
+6 - CIGUGUR | 17 - JAPARA | 28 - PANCALANG |
+7 - CILEBAK | 18 - KADUGEDE | 29 - PASAWAHAN |
+8 - CILIMUS | 19 - KALIMANGGIS | 30 - SELAJAMBE |
+9 - CIMAHI | 20 - KARANG KANCANA | 31 - SINDANGAGUNG |
+10 - CINIRU | 21 - KRAMATMULYA | 32 - SUBANG |
+11 - CIPICUNG | 22 - KUNINGAN |
+
 
 sekian terimakasih dan haturnuhun.
