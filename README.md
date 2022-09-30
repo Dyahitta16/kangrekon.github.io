@@ -6,6 +6,7 @@ Hai teman, silakan isi progres penyaluran tahap 3 tahun 2022 dengan edit file be
 <br><br>❌ kolom hitam tidak boleh diedit [NIK, NAMA, NOMINAL, IDSEMESTA]
 <br>✏️ kolom oren harus diisi [KODE ALASAN, TGL TRX, KET.]
 <br>✅ kolom hijau boleh diedit [PENDAMPING, KEC, DESA, ALAMAT]
+
 | KODE ALASAN |KETERANGAN|
 | --- | --- |
 | 0 | Sudah Transaksi dan isi kolom TANGGAL TRANSAKSI |
