@@ -1,7 +1,5 @@
-## Progres Rekon Tahap 3 Tahun 2022
-
-Hai teman, silakan isi progres penyaluran tahap 3 tahun 2022 dengan edit file berikut:
-## FILE DIREKAP SETIAP HARI KAMIS  
+## Rekon Tahap 3 Tahun 2022 Termin 1-6
+## Cut Off 30 September 2022
 [ KLIK UNTUK CEK REKAP ]
 <br><br>❌ kolom hitam tidak boleh diedit [NIK, NAMA, NOMINAL, IDSEMESTA]
 <br>✏️ kolom oren harus diisi [KODE ALASAN, TGL TRX, KET.]
