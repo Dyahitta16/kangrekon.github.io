@@ -2,12 +2,12 @@
 ## Cut Off 30 September 2022
 ## DEADLINE TGL 13 OKT 2022
 [ KLIK UNTUK CEK REKAP ]
-
 <br><br>❌ kolom hitam tidak boleh diedit<br> [NIK, NAMA, NOMINAL, IDSEMESTA]
-<br>✏️ kolom oren harus diisi<br> [KODE ALASAN, TGL TRX, KET.]
-<br>✅ kolom hijau boleh diedit<br> [PENDAMPING, KEC, DESA, ALAMAT]
+<br>✏️ kolom oren harus diisi<br> [KODE ALASAN, TGL TRX, KET.]</br>
+![KODE_ALASAN](https://user-images.githubusercontent.com/114164637/194822048-d17bd536-8351-4634-b961-77ff6ef8fd7f.png) </br>
+<br>TIGA KOLOM TERAKHIR ADALAH BANTUAN, ISIAN PENDAMPING SEBELUMNYA, SAMPAI SEKARANG BELUM  TRANSAKSI<br>
 
-<img src="https://drive.google.com/file/d/19MrVYUIQQqmTtDIDw0w-fpQd6s6r9F0z/view" >
+![HISTORI_REKON](https://user-images.githubusercontent.com/114164637/194822063-101879c3-42f9-439b-95e9-a928a9711784.png)
 
 | KODE ALASAN |KETERANGAN|
 | --- | --- |
