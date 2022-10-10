@@ -31,7 +31,7 @@ Berikut link untuk akses file kecamatan:
 
 | KECAMATAN | KECAMATAN |
 | --- | --- |
-| <a href="https://docs.google.com/spreadsheets/d/192fTZbX9VvhCxIU-iFnsrtv4iTGZ4GC3/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">CIAWIGEBANG</a> | JAPARA |
+| <a href="https://docs.google.com/spreadsheets/d/192fTZbX9VvhCxIU-iFnsrtv4iTGZ4GC3/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">CIAWIGEBANG</a> | [JAPARA]([https://www.google.com](https://docs.google.com/spreadsheets/d/19BJ3SUZRYEpju7eWtNKl43e_u-TuuVyj/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true)/) |
 | CIBEUREUM | KADUGEDE |
 | CIBINGBIN | KALIMANGGIS |
 | CIDAHU | KARANG KANCANA |
