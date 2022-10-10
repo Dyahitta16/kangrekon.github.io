@@ -4,9 +4,8 @@
 <br><br>❌ kolom hitam tidak boleh diedit<br> [NIK, NAMA, NOMINAL, IDSEMESTA]
 <br>✏️ kolom oren harus diisi<br> [KODE ALASAN, TGL TRX, KET.]
 <br>✅ kolom hijau boleh diedit<br> [PENDAMPING, KEC, DESA, ALAMAT]
-<img src="https://drive.google.com/file/d/19MlOvmzychX2dvgnS0yPJ7Rlgh_MVC-r/view?usp=sharing">
 
-<img src="https://drive.google.com/file/d/19MrVYUIQQqmTtDIDw0w-fpQd6s6r9F0z/view?usp=sharing">
+
 | KODE ALASAN |KETERANGAN|
 | --- | --- |
 | 0 | Sudah Transaksi dan isi kolom TANGGAL TRANSAKSI |
@@ -34,20 +33,20 @@ Berikut link untuk akses file kecamatan:
 | KECAMATAN | KECAMATAN |
 | --- | --- |
 |<a href="https://docs.google.com/spreadsheets/d/192fTZbX9VvhCxIU-iFnsrtv4iTGZ4GC3/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">CIAWIGEBANG</a> | <a href="https://docs.google.com/spreadsheets/d/19BJ3SUZRYEpju7eWtNKl43e_u-TuuVyj/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">JAPARA</a> |
-| CIBEUREUM | KADUGEDE |
-| CIBINGBIN | KALIMANGGIS |
-| CIDAHU | KARANG KANCANA |
-| CIGANDAMEKAR | KRAMATMULYA |
-| CIGUGUR | KUNINGAN |
-| CILEBAK | LEBAKWANGI |
-| CILIMUS | LURAGUNG |
-| CIMAHI | MALEBER |
-| CINIRU | MANDIRANCAN |
-| CIPICUNG | NUSAHERANG |
-| CIWARU | PANCALANG |
-| DARMA | PASAWAHAN |
-| GARAWANGI | SELAJAMBE |
-| HANTARA | SINDANGAGUNG |
-| JALAKSANA | SUBANG |
+| <a href="https://docs.google.com/spreadsheets/d/192av-efkOKmoppuaZlt6vOdNpdMKq7ER/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">CIBEUREUM</a> | <a href="https://docs.google.com/spreadsheets/d/19DM3j111GxMzwtfkxsAX4FZ1JA0G6Ozw/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">KADUGEDE</a> |
+| <a href="https://docs.google.com/spreadsheets/d/191xHofT5dulPTHlPQG0XC1YpW-C6n7DE/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">CIBINGBIN</a> | <a href="https://docs.google.com/spreadsheets/d/19FjpcGJrboP2jCO5LGcGzxFpwNWX0j7f/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">KALIMANGGIS</a> |
+| <a href="https://docs.google.com/spreadsheets/d/191bmRD11tSF3VFAcsYnAYE4rTEhHzrvL/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">CIDAHU</a> | <a href="https://docs.google.com/spreadsheets/d/19FwqmqjsuLHGoH04W8qWp97KyUpBbBms/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">KARANG KANCANA</a> |
+| <a href="https://docs.google.com/spreadsheets/d/196NfGL6ynyVaVQ6Lla2tLOqYBMKCVlI0/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">CIGANDAMEKAR</a> | <a href="https://docs.google.com/spreadsheets/d/19GQlaBo32M2UFzVkzl-PQy2KeH-qdNa1/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">KRAMATMULYA</a> |
+| <a href="https://docs.google.com/spreadsheets/d/197Fd2ZWn3PhfZDx4dHzWSTf_cF-20fG8/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">CIGUGUR</a> | <a href="https://docs.google.com/spreadsheets/d/19GkZeQmlqiLY35n4vAH80EKr_V3yAT2B/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">KUNINGAN</a> |
+| <a href="https://docs.google.com/spreadsheets/d/196m0UtqXa_OCfiIVPSqUGtgGBF8q2glQ/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">CILEBAK</a> | <a href="https://docs.google.com/spreadsheets/d/19H3Zv6hiAjY3iLDg46x9h9WUsF7b36BA/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">LEBAKWANGI</a> |
+| <a href="https://docs.google.com/spreadsheets/d/197M91siieJCVfm5d34tGi0q6dN-MJXkU/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">CILIMUS</a> | <a href="https://docs.google.com/spreadsheets/d/19IW2qvWj53pDgEXTIb7xKD-9dyAp2lG-/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">LURAGUNG</a> |
+| <a href="https://docs.google.com/spreadsheets/d/197O5-X4wDFETLiRTZQB3MucTTDacXR9O/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">CIMAHI</a> | <a href="https://docs.google.com/spreadsheets/d/19J352HVPG6Z_6PyiwuLRrES5KIUfOl-h/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">MALEBER</a> |
+| <a href="https://docs.google.com/spreadsheets/d/197NqaocWLX5gwDQHEPJUlHwcg44J0drs/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">CINIRU</a> | <a href=" ">MANDIRANCAN</a> |
+| <a href=" ">CIPICUNG</a> | <a href="https://docs.google.com/spreadsheets/d/19JIXKr7RQcgDhW9Xz7Byb376K0yMa4Ap/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">NUSAHERANG</a> |
+| <a href="https://docs.google.com/spreadsheets/d/198WcLvOhCjDvKf5wev0vMGkPpAmOLMvH/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">CIWARU</a> | <a href=" ">PANCALANG</a> |
+| <a href=" ">DARMA</a> | <a href="https://docs.google.com/spreadsheets/d/19LGjfiPnQ5Pd1etXYYkKQmFIlK-SeMje/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">PASAWAHAN</a> |
+| <a href="https://docs.google.com/spreadsheets/d/19AJX8rISmHAkOe8-iRB3J6u6pQFMYvfn/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">GARAWANGI</a> | <a href=" ">SELAJAMBE</a> |
+| <a href=" ">HANTARA</a> | <a href="https://docs.google.com/spreadsheets/d/19LonaczbkSUecFZ_NkCr2OxM8NMdXlc0/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">SINDANGAGUNG</a> |
+| <a href="https://docs.google.com/spreadsheets/d/19AU8V4Etecff07HI1h3XA8e_jQekXsS-/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">JALAKSANA</a> | <a href="https://docs.google.com/spreadsheets/d/19MKOQrAPLTb9meGF6O2iVuRVDVVkL705/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">SUBANG</a> |
 
 sekian terimakasih dan haturnuhun.
