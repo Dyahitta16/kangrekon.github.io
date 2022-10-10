@@ -7,6 +7,7 @@
 <br>✏️ kolom oren harus diisi<br> [KODE ALASAN, TGL TRX, KET.]
 <br>✅ kolom hijau boleh diedit<br> [PENDAMPING, KEC, DESA, ALAMAT]
 
+<img src="https://drive.google.com/file/d/19MrVYUIQQqmTtDIDw0w-fpQd6s6r9F0z/view" >
 
 | KODE ALASAN |KETERANGAN|
 | --- | --- |
