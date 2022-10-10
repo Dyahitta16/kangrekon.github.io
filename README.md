@@ -2,7 +2,7 @@
 # Termin 1-6
 ## Cut Off 30 September 2022
 ## Deadline 13 OKT 2022
-<br>[ REKAP BELUM TRANSAKSI UPDATE 10 OKT 2022]
+<br><a href="https://docs.google.com/spreadsheets/d/190d-t1_FIU_5BJJuTPMrsOjxObxC4wd4/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">[ REKAP BELUM TRANSAKSI UPDATE 10 OKT 2022]</a>
 <br><br>❌ kolom hitam tidak boleh diedit<br> [NIK, NAMA, NOMINAL, IDSEMESTA]
 <br>✏️ kolom oren harus diisi<br> [KODE ALASAN, TGL TRX, KET.]
 <br>![KODE_ALASAN](https://user-images.githubusercontent.com/114164637/194822048-d17bd536-8351-4634-b961-77ff6ef8fd7f.png)
