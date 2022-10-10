@@ -1,6 +1,8 @@
 # Tahap 3 Termin 1-6
 ## Cut Off 30 September 2022
+## DEADLINE TGL 13 OKT 2022
 [ KLIK UNTUK CEK REKAP ]
+
 <br><br>❌ kolom hitam tidak boleh diedit<br> [NIK, NAMA, NOMINAL, IDSEMESTA]
 <br>✏️ kolom oren harus diisi<br> [KODE ALASAN, TGL TRX, KET.]
 <br>✅ kolom hijau boleh diedit<br> [PENDAMPING, KEC, DESA, ALAMAT]
