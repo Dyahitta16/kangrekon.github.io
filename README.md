@@ -1,7 +1,7 @@
 # Tahap 3 Termin 1-6
 ## Cut Off 30 September 2022
 ## DEADLINE TGL 13 OKT 2022
-[ KLIK UNTUK CEK REKAP ]
+
 <br><br>❌ kolom hitam tidak boleh diedit<br> [NIK, NAMA, NOMINAL, IDSEMESTA]
 <br>✏️ kolom oren harus diisi<br> [KODE ALASAN, TGL TRX, KET.]</br>
 ![KODE_ALASAN](https://user-images.githubusercontent.com/114164637/194822048-d17bd536-8351-4634-b961-77ff6ef8fd7f.png) </br>
@@ -52,4 +52,6 @@ Berikut link untuk akses file kecamatan:
 | <a href="https://docs.google.com/spreadsheets/d/199f4B8Yerh1yTY69nGYTDJeaMdLOn-6c/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">HANTARA</a> | <a href="https://docs.google.com/spreadsheets/d/19LonaczbkSUecFZ_NkCr2OxM8NMdXlc0/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">SINDANGAGUNG</a> |
 | <a href="https://docs.google.com/spreadsheets/d/19AU8V4Etecff07HI1h3XA8e_jQekXsS-/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">JALAKSANA</a> | <a href="https://docs.google.com/spreadsheets/d/19MKOQrAPLTb9meGF6O2iVuRVDVVkL705/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">SUBANG</a> |
 
-sekian terimakasih dan haturnuhun.
+sekian terimakasih dan haturnuhun. </br>
+REKAP BELUM TRANSAKSI UPDATE 10 OKT 2022
+![BELUM TRX 30 SEPT 2022](https://user-images.githubusercontent.com/114164637/194824008-6f509b27-2023-46c9-a01b-834e1c3f4cfa.png)
