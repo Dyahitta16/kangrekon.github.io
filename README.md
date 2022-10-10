@@ -4,7 +4,9 @@
 <br><br>❌ kolom hitam tidak boleh diedit<br> [NIK, NAMA, NOMINAL, IDSEMESTA]
 <br>✏️ kolom oren harus diisi<br> [KODE ALASAN, TGL TRX, KET.]
 <br>✅ kolom hijau boleh diedit<br> [PENDAMPING, KEC, DESA, ALAMAT]
+<img src="https://drive.google.com/file/d/19MlOvmzychX2dvgnS0yPJ7Rlgh_MVC-r/view?usp=sharing"/>
 
+<img src="https://drive.google.com/file/d/19MrVYUIQQqmTtDIDw0w-fpQd6s6r9F0z/view?usp=sharing"/>
 | KODE ALASAN |KETERANGAN|
 | --- | --- |
 | 0 | Sudah Transaksi dan isi kolom TANGGAL TRANSAKSI |
