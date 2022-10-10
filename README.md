@@ -1,7 +1,8 @@
-# Tahap 3 Termin 1-6
+# REKON TAHAP 3 
+# Termin 1-6
 ## Cut Off 30 September 2022
-## DEADLINE TGL 13 OKT 2022
-
+## Deadline 13 OKT 2022
+<br>[ REKAP BELUM TRANSAKSI UPDATE 10 OKT 2022]
 <br><br>❌ kolom hitam tidak boleh diedit<br> [NIK, NAMA, NOMINAL, IDSEMESTA]
 <br>✏️ kolom oren harus diisi<br> [KODE ALASAN, TGL TRX, KET.]
 <br>![KODE_ALASAN](https://user-images.githubusercontent.com/114164637/194822048-d17bd536-8351-4634-b961-77ff6ef8fd7f.png)
@@ -23,8 +24,8 @@
 👇👇👇👇👇
 
 Surat keterangan Pengecekan Rekon (SPTJM dan surat pernyatan)
-Download Disini
-Upload Disini
+<br><a href="https://docs.google.com/document/d/1-qVT17VMVJIKY4IUFWasVMjRtyNvP2lJ/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true"> Download Disini</a>
+<br><br><a href="https://drive.google.com/drive/folders/1-pGMxcWLbM24XaXfTvTHCLeja5wFZgoy?usp=sharing"> Upload Disini</a>
 
 Kolom KETERANGAN diisi dengan detail dan jelas
 Kolom TANGGAL TRANSAKSI format: 2022-08-25
@@ -52,6 +53,8 @@ Berikut link untuk akses file kecamatan:
 | <a href="https://docs.google.com/spreadsheets/d/199f4B8Yerh1yTY69nGYTDJeaMdLOn-6c/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">HANTARA</a> | <a href="https://docs.google.com/spreadsheets/d/19LonaczbkSUecFZ_NkCr2OxM8NMdXlc0/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">SINDANGAGUNG</a> |
 | <a href="https://docs.google.com/spreadsheets/d/19AU8V4Etecff07HI1h3XA8e_jQekXsS-/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">JALAKSANA</a> | <a href="https://docs.google.com/spreadsheets/d/19MKOQrAPLTb9meGF6O2iVuRVDVVkL705/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">SUBANG</a> |
 
-sekian terimakasih dan haturnuhun. 
-<br>REKAP BELUM TRANSAKSI UPDATE 10 OKT 2022
-<br>![BELUM TRX 30 SEPT 2022](https://user-images.githubusercontent.com/114164637/194824008-6f509b27-2023-46c9-a01b-834e1c3f4cfa.png)
+jika tidak terupdate, mungkin tidak isi rekon online, silakan kirim file yang sudah diisi rekon ke email rekon.pkhkng@gmail.com
+sekian terimakasih. 
+
+
+
