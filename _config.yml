@@ -5,3 +5,4 @@ plugins:
 - jekyll-remote-theme
 title: [The Rekons]
 description: [Informasi Seputar Bansos PPKH Kab. Kuningan]
+show_downloads: true
