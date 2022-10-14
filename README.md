@@ -2,7 +2,7 @@
 # Termin 1-6
 ## Cut Off 30 September 2022
 ## Deadline 13 OKT 2022
-<br><a href="https://docs.google.com/spreadsheets/d/190d-t1_FIU_5BJJuTPMrsOjxObxC4wd4/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">[ REKAP Update 10 Okt 2022]</a>
+<br><a href="https://docs.google.com/spreadsheets/d/190d-t1_FIU_5BJJuTPMrsOjxObxC4wd4/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">[ REKAP Update]</a>
 <br><br>❌ kolom hitam tidak boleh diedit<br> [NIK, NAMA, NOMINAL, IDSEMESTA]
 <br>✏️ kolom oren harus diisi<br> [KODE ALASAN, TGL TRX, KET.]
 <br>![KODE_ALASAN](https://user-images.githubusercontent.com/114164637/194822048-d17bd536-8351-4634-b961-77ff6ef8fd7f.png)
@@ -33,7 +33,8 @@ Kolom TANGGAL TRANSAKSI format: 2022-08-25
 kolom PENDAMPING dan ALAMAT, silakan diedit saja jika tidak sesuai.
 Teman, silakan login akun GMAIL yang terdaftar diakun SDM PKH untuk mengedit, atau minta akses bagi yang belum saya kirimi email, sertakan Nama Pendamping dan Kecamatan Dampingan.
 Berikut link untuk akses file kecamatan:
-
+<br><br>LINK SUDAH DITUTUP
+<!--
 | KECAMATAN | KECAMATAN |
 | --- | --- |
 |<a href="https://docs.google.com/spreadsheets/d/192fTZbX9VvhCxIU-iFnsrtv4iTGZ4GC3/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">CIAWIGEBANG</a> | <a href="https://docs.google.com/spreadsheets/d/19BJ3SUZRYEpju7eWtNKl43e_u-TuuVyj/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">JAPARA</a> |
@@ -52,7 +53,7 @@ Berikut link untuk akses file kecamatan:
 | <a href="https://docs.google.com/spreadsheets/d/19AJX8rISmHAkOe8-iRB3J6u6pQFMYvfn/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">GARAWANGI</a> | <a href="https://docs.google.com/spreadsheets/d/19M8b618wYDCM-qmPftpq4XaR2LhMce3R/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">SELAJAMBE</a> |
 | <a href="https://docs.google.com/spreadsheets/d/199f4B8Yerh1yTY69nGYTDJeaMdLOn-6c/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">HANTARA</a> | <a href="https://docs.google.com/spreadsheets/d/19LonaczbkSUecFZ_NkCr2OxM8NMdXlc0/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">SINDANGAGUNG</a> |
 | <a href="https://docs.google.com/spreadsheets/d/19AU8V4Etecff07HI1h3XA8e_jQekXsS-/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">JALAKSANA</a> | <a href="https://docs.google.com/spreadsheets/d/19MKOQrAPLTb9meGF6O2iVuRVDVVkL705/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">SUBANG</a> |
-
+-->
 jika tidak terupdate, mungkin tidak isi rekon online, silakan kirim file yang sudah diisi rekon ke email rekon.pkhkng@gmail.com
 sekian terimakasih. 
 
