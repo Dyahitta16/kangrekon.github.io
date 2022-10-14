@@ -33,7 +33,7 @@ Kolom TANGGAL TRANSAKSI format: 2022-08-25
 kolom PENDAMPING dan ALAMAT, silakan diedit saja jika tidak sesuai.
 Teman, silakan login akun GMAIL yang terdaftar diakun SDM PKH untuk mengedit, atau minta akses bagi yang belum saya kirimi email, sertakan Nama Pendamping dan Kecamatan Dampingan.
 Berikut link untuk akses file kecamatan:
-<br><br>LINK SUDAH DITUTUP
+<br><br>LINK SUDAH DITUTUP<br><br>
 <!--
 | KECAMATAN | KECAMATAN |
 | --- | --- |
