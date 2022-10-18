@@ -34,6 +34,7 @@ Berikut disampaikan KPM belum transaksi (333 KPM) Tahap 1, 2, 3 (Termin 1-6) dan
 <br>5-PIN TERBLOKIR : SEGERA DIURUS/DIBANTU KPM NYA
 <br>5-SALDO DIBLOKIR BANSOS BPUM : ABAIKAN
 -->
+
 | KODE ALASAN |KETERANGAN|
 | --- | --- |
 | 0 | Sudah Transaksi dan isi kolom TANGGAL TRANSAKSI |
