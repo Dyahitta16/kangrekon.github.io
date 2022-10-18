@@ -20,6 +20,8 @@ Berikut disampaikan KPM belum transaksi (333 KPM) Tahap 1, 2, 3 (Termin 1-6) dan
 <br>23 : Tahap 2 dan 3 Belum Transaksi (29 KPM)
 <br>3-T78 : Tahap 3 Termin 7 dan 8 Belum Transaksi (88 KPM)
 
+<br>![Image 11](https://user-images.githubusercontent.com/114164637/196404698-8edc1ff3-52a3-417e-a0e6-37b47081755b.png)
+<!-- 
 <br>ket. Kolom REKON_THP3_14OKT
 <br>BLANK-MAMPU : ABAIKAN
 <br>BLANK-MENINGGAL TANPA AHLI WARIS : ABAIKAN
@@ -31,7 +33,7 @@ Berikut disampaikan KPM belum transaksi (333 KPM) Tahap 1, 2, 3 (Termin 1-6) dan
 <br>2-KKS RUSAK : SEGERA DIURUS/DIBANTU KPM NYA
 <br>5-PIN TERBLOKIR : SEGERA DIURUS/DIBANTU KPM NYA
 <br>5-SALDO DIBLOKIR BANSOS BPUM : ABAIKAN
-
+-->
 | KODE ALASAN |KETERANGAN|
 | --- | --- |
 | 0 | Sudah Transaksi dan isi kolom TANGGAL TRANSAKSI |
