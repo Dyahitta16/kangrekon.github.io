@@ -82,7 +82,7 @@ Berikut link untuk akses file kecamatan:
 | <a href="https://docs.google.com/spreadsheets/d/19tG7jBkSHPjRTLVIXXopzunjxOG_508h/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">HANTARA</a> | <a href="https://docs.google.com/spreadsheets/d/1A7EL4hOw1KT3b_qWKX2iySESKuhHB4AC/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">SINDANGAGUNG</a> |
 | <a href="https://docs.google.com/spreadsheets/d/19rqXnoB-9lNwT0qdEnn7tURA4O_KNLJB/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">JALAKSANA</a> | <a href="https://docs.google.com/spreadsheets/d/1A7UcSAeVR1D9Mumc6Yj-EDXBRGRMQt3_/edit?usp=sharing&ouid=103403997875377965220&rtpof=true&sd=true">SUBANG</a> |
 
-jika tidak terupdate, mungkin tidak isi rekon online, silakan kirim file yang sudah diisi rekon ke email rekon.pkhkng@gmail.com
+jika tidak terupdate, mungkin tidak isi rekon online, silakan kirim file yang sudah diisi rekon ke email <a href = "rekon.pkhkng@gmail.com">rekon.pkhkng@gmail.com</a>
 sekian terimakasih. 
 
 
