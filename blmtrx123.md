@@ -2,9 +2,9 @@
 Berikut disampaikan KPM belum transaksi (333 KPM) Tahap 1, 2, 3 (Termin 1-6) dan Tahap 3 termin 7-8 Tahun 2022
 <br>Sumber data:
 1. Tindak lanjut rekon Tahap 1 dan 2 (12 Agustus 2022)
-2. Rekon Tahap 3 (14 Okt 2022)
+2. Rekon Tahap 3 (14 Oktober 2022)
 3. SP2D Tahap 3 Termin 7 dan 8
-4. Hasil Padan Rekon THP3 (30 Sept 2022)
+4. Hasil Padan Rekon THP3 (30 September 2022)
 
 <br>Tahap 1 Cut Off tgl 18 September 2022
 <br>Tahap 2 Cut Off tgl 18 September 2022
