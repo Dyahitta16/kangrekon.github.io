@@ -4,12 +4,15 @@ Berikut disampaikan KPM belum transaksi (333 KPM) Tahap 1, 2, 3 (Termin 1-6) dan
 1. Tindak lanjut rekon Tahap 1 dan 2 (12 Agustus 2022)
 2. Rekon Tahap 3 (14 Okt 2022)
 3. SP2D Tahap 3 Termin 7 dan 8
+4. Hasil Padan Rekon THP3 (30 Sept 2022)
 
 <br>Tahap 1 Cut Off tgl 18 September 2022
 <br>Tahap 2 Cut Off tgl 18 September 2022
 <br>Tahap 3 (Termin 1-6) Cut Off tgl 30 September 2022
 <br>Tahap 3 Termin 7 dan 8 Belum ada Cut Off
+<br>![belum trx 123](https://user-images.githubusercontent.com/114164637/200772062-3850b7de-5824-4a72-900a-92d277ff54d8.png)
 
+<!-- 
 <br>Ket. kolom TAHAP
 <br>1 : Tahap 1 Belum Transaksi (59 KPM)
 <br>2 : Tahap 2 Belum Transaksi (6 KPM)
@@ -21,7 +24,7 @@ Berikut disampaikan KPM belum transaksi (333 KPM) Tahap 1, 2, 3 (Termin 1-6) dan
 <br>3-T78 : Tahap 3 Termin 7 dan 8 Belum Transaksi (88 KPM)
 
 <br>![Image 11](https://user-images.githubusercontent.com/114164637/196404698-8edc1ff3-52a3-417e-a0e6-37b47081755b.png)
-<!-- 
+
 <br>ket. Kolom REKON_THP3_14OKT
 <br>BLANK-MAMPU : ABAIKAN
 <br>BLANK-MENINGGAL TANPA AHLI WARIS : ABAIKAN
@@ -40,8 +43,8 @@ Berikut disampaikan KPM belum transaksi (333 KPM) Tahap 1, 2, 3 (Termin 1-6) dan
 | 0 | Sudah Transaksi dan isi kolom TANGGAL TRANSAKSI |
 | 1 |  Belum menerima Butab atau KKS |
 | 2 |  Butab/KKS Rusak/Hilang/Tertelan mesin ATM |
-| 3 |  KKondisi geografis yang sulit |
-| 4 | Kondisi cuaca ekstrim |
+| 3 |  Kondisi geografis yang sulit |
+| 4 |  Kondisi cuaca ekstrim |
 | 5 |  KKS diblokir/terblokir |
 | 6 |  KKS dan Butab salah distribusi wilayah |
 | BLANK |  Jika tidak termasuk ke dalam kode diatas, seperti: KPM Tidak ditemukan (dilengkapi surat keterangan desa setempat), KPM Menolak bantuan sosial (dilengkapi surat pernyataan yang bersangkutan), KPM adalah sejahtera atau anggota POLRI/TNI/PNS atau Pensiuan POLRI/TNI/PNS (harus ada surat keterangan desa dan di update di SIKS_NG). |
