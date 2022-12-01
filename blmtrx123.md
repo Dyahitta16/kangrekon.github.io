@@ -1,42 +1,14 @@
 # BELUM TRANSAKSI THP 123
-Berikut disampaikan KPM belum transaksi (333 KPM) Tahap 1, 2, 3 (Termin 1-6) dan Tahap 3 termin 7-8 Tahun 2022
+Berikut disampaikan KPM belum transaksi Tahap 1, 2, dan 3 Tahun 2022
 <br>Sumber data:
 1. Tindak lanjut rekon Tahap 1 dan 2 (12 Agustus 2022)
 2. Rekon Tahap 3 (14 Oktober 2022)
-3. SP2D Tahap 3 Termin 7 dan 8
-4. Hasil Padan Rekon THP3 (30 September 2022)
+3. Hasil Padan Rekon THP3 (30 September 2022)
 
 <br>Tahap 1 Cut Off tgl 18 September 2022
 <br>Tahap 2 Cut Off tgl 18 September 2022
-<br>Tahap 3 (Termin 1-6) Cut Off tgl 30 September 2022
-<br>Tahap 3 Termin 7 dan 8 Belum ada Cut Off
+<br>Tahap 3 Cut Off tgl 11 November 2022
 <br>![belum trx 123](https://user-images.githubusercontent.com/114164637/200772062-3850b7de-5824-4a72-900a-92d277ff54d8.png)
-
-<!-- 
-<br>Ket. kolom TAHAP
-<br>1 : Tahap 1 Belum Transaksi (59 KPM)
-<br>2 : Tahap 2 Belum Transaksi (6 KPM)
-<br>3 : Tahap 3 Belum Transaksi (117 KPM)
-<br>123 : Tahap 1, 2 dan 3 (Termin 1-6) Belum Transaksi (28 KPM)
-<br>12 : Tahap 1 dan 2 Belum Transaksi (5 KPM)
-<br>13 : Tahap 1 dan 3 Belum Transaksi (1 KPM)
-<br>23 : Tahap 2 dan 3 Belum Transaksi (29 KPM)
-<br>3-T78 : Tahap 3 Termin 7 dan 8 Belum Transaksi (88 KPM)
-
-<br>![Image 11](https://user-images.githubusercontent.com/114164637/196404698-8edc1ff3-52a3-417e-a0e6-37b47081755b.png)
-
-<br>ket. Kolom REKON_THP3_14OKT
-<br>BLANK-MAMPU : ABAIKAN
-<br>BLANK-MENINGGAL TANPA AHLI WARIS : ABAIKAN
-<br>BLANK-MENOLAK BANSOS : ABAIKAN
-<br>BLANK-PENSIUNAN PNS : ABAIKAN
-<br>BLANK TIDAK DITEMUKAN : Abaikan jika tidak ada update/Ketemu
-<br>1-BELUM MENERIMA KKS DAN BUTAB : SEDANG DIAJUKAN KE BNI
-<br>2-KKS HILANG : SEGERA DIURUS/DIBANTU KPM NYA
-<br>2-KKS RUSAK : SEGERA DIURUS/DIBANTU KPM NYA
-<br>5-PIN TERBLOKIR : SEGERA DIURUS/DIBANTU KPM NYA
-<br>5-SALDO DIBLOKIR BANSOS BPUM : ABAIKAN
--->
 
 | KODE ALASAN |KETERANGAN|
 | --- | --- |
