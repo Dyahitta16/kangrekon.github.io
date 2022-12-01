@@ -8,7 +8,6 @@ Berikut disampaikan KPM belum transaksi Tahap 1, 2, dan 3 Tahun 2022
 <br>Tahap 1 Cut Off tgl 18 September 2022
 <br>Tahap 2 Cut Off tgl 18 September 2022
 <br>Tahap 3 Cut Off tgl 11 November 2022
-<br>![belum trx 123](https://user-images.githubusercontent.com/114164637/200772062-3850b7de-5824-4a72-900a-92d277ff54d8.png)
 
 | KODE ALASAN |KETERANGAN|
 | --- | --- |
