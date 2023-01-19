@@ -62,7 +62,7 @@ Berikut disampaikan KPM Gagal Salur Tahun 2022
 jika tidak terupdate, mungkin tidak isi online, silakan kirim file yang sudah diisi ke email <a href = "rekon.pkhkng@gmail.com">rekon.pkhkng@gmail.com</a>
 sekian terimakasih. 
 
-<--!
+<!--
 
 | KECAMATAN | KECAMATAN |
 | --- | --- |
@@ -83,4 +83,4 @@ sekian terimakasih.
 | <a href="#">HANTARA</a> | <a href="#">SINDANGAGUNG</a> |
 | <a href="#">JALAKSANA</a> | <a href="#">SUBANG</a> |
 
-!-->
+-->
