@@ -1,16 +1,26 @@
 # GAGAL SALUR POS DAN BNI 2022
 Berikut disampaikan KPM Gagal Salur Tahun 2022
 
-| KODE ALASAN |KETERANGAN|
-| --- | --- |
-| 0 | Sudah Transaksi dan isi kolom TANGGAL TRANSAKSI |
-| 1 |  Belum menerima Butab atau KKS |
-| 2 |  Butab/KKS Rusak/Hilang/Tertelan mesin ATM |
-| 3 |  Kondisi geografis yang sulit |
-| 4 |  Kondisi cuaca ekstrim |
-| 5 |  KKS diblokir/terblokir |
-| 6 |  KKS dan Butab salah distribusi wilayah |
-| BLANK |  Jika tidak termasuk ke dalam kode diatas, seperti: KPM Tidak ditemukan (dilengkapi surat keterangan desa setempat), KPM Menolak bantuan sosial (dilengkapi surat pernyataan yang bersangkutan), KPM adalah sejahtera atau anggota POLRI/TNI/PNS atau Pensiuan POLRI/TNI/PNS (harus ada surat keterangan desa dan di update di SIKS_NG). |
+# CARA PENGISIAN FILE HIMBARA (BNI)
+| DITEMUKAN/TIDAK | SETATUS KKS | KETERANGAN LANJUTAN |
+| --- | --- | --- |
+| (1) TIDAK DITEMUKAN | STOP/SELESAI | STOP/SELESAI |
+| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (1) KKS Rusak/Hilang |
+| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (2) Geografis Sulit |
+| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (3) Cuaca Ekstrim |
+| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (4) Terblokir/Diblokir |
+| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (5) Menolak Bansos |
+| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (6) Double Bansos (BLTDD) |
+| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (7) Sejahtera/Mampu/NonKategori |
+| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (8) Pensiunan/PNS/TNI/POLRI/BUMN/BUMD |
+| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (9) Meninggal Tanpa Ahli Waris |
+| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (10) TKI/Cerai/Berhadapan Dengan Hukum/Tidak Ada Anggota Keluarga |
+| (0) DITEMUKAN |  (1) Belum Terima Butab/KKS | (1) Tidak Tahu Terima Bansos |
+| (0) DITEMUKAN |  (1) Belum Terima Butab/KKS | (2) Akses Sulit |
+| (0) DITEMUKAN |  (1) Belum Terima Butab/KKS | (3) Identitas Tidak Sama |
+| (0) DITEMUKAN |  (1) Belum Terima Butab/KKS | (4) lainnya |
+
+# CARA PENGISIAN FILE POS
 
 | KECAMATAN | KECAMATAN |
 | --- | --- |
