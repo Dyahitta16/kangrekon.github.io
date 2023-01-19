@@ -1,27 +1,13 @@
 # GAGAL SALUR POS DAN BNI 2022
 Berikut disampaikan KPM Gagal Salur Tahun 2022
 
-# CARA PENGISIAN FILE HIMBARA (BNI)
+![rekap](https://user-images.githubusercontent.com/114164637/213399918-e72463f3-4572-418d-84bf-30dd639befca.png)
 
-| DITEMUKAN/TIDAK | SETATUS KKS | KETERANGAN LANJUTAN |
-| --- | --- | --- |
-| (1) TIDAK DITEMUKAN | STOP/SELESAI | STOP/SELESAI |
-| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (1) KKS Rusak/Hilang |
-| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (2) Geografis Sulit |
-| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (3) Cuaca Ekstrim |
-| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (4) Terblokir/Diblokir |
-| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (5) Menolak Bansos |
-| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (6) Double Bansos (BLTDD) |
-| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (7) Sejahtera/Mampu/NonKategori |
-| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (8) Pensiunan/PNS/TNI/POLRI/BUMN/BUMD |
-| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (9) Meninggal Tanpa Ahli Waris |
-| (0) DITEMUKAN |  (0) Sudah Terima Butab/KKS | (10) TKI/Cerai/Berhadapan Dengan Hukum/Tidak Ada Anggota Keluarga |
-| (0) DITEMUKAN |  (1) Belum Terima Butab/KKS | (1) Tidak Tahu Terima Bansos |
-| (0) DITEMUKAN |  (1) Belum Terima Butab/KKS | (2) Akses Sulit |
-| (0) DITEMUKAN |  (1) Belum Terima Butab/KKS | (3) Identitas Tidak Sama |
-| (0) DITEMUKAN |  (1) Belum Terima Butab/KKS | (4) lainnya |
+# CARA PENGISIAN FILE HIMBARA (BNI)
+![himbara](https://user-images.githubusercontent.com/114164637/213396516-b8f52ae0-cdf9-4f32-b579-f5db99dab748.png)
 
 # CARA PENGISIAN FILE POS
+![pos](https://user-images.githubusercontent.com/114164637/213396593-e6708d7e-7dfb-4a63-b60e-e8e4dc5a7525.png)
 
 | KECAMATAN | KECAMATAN |
 | --- | --- |
